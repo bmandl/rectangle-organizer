@@ -1,0 +1,29 @@
+{
+  "name": "rectangle-organizer",
+  "version": "0.0.1",
+  "description": "Rectangle organizer app for drag'n drop rectangles and organize them hierarchically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmandl/rectangle-organizer.git"
+  },
+  "keywords": [
+    "drag'n",
+    "drop",
+    "node",
+    "javascript"
+  ],
+  "author": "Blaž Mandl <blaz.mandl@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bmandl/rectangle-organizer/issues"
+  },
+  "homepage": "https://github.com/bmandl/rectangle-organizer#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
